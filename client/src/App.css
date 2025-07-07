@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+/* @keyframes moveDotsSmoothCircle {
+    0% {
+      background-position: center, 100px 0px;
+    }
+    6.25% {
+      background-position: center, 92px 38px;
+    }
+    12.5% {
+      background-position: center, 70px 70px;
+    }
+    18.75% {
+      background-position: center, 38px 92px;
+    }
+    25% {
+      background-position: center, 0px 100px;
+    }
+    31.25% {
+      background-position: center, -38px 92px;
+    }
+    37.5% {
+      background-position: center, -70px 70px;
+    }
+    43.75% {
+      background-position: center, -92px 38px;
+    }
+    50% {
+      background-position: center, -100px 0px;
+    }
+    56.25% {
+      background-position: center, -92px -38px;
+    }
+    62.5% {
+      background-position: center, -70px -70px;
+    }
+    68.75% {
+      background-position: center, -38px -92px;
+    }
+    75% {
+      background-position: center, 0px -100px;
+    }
+    81.25% {
+      background-position: center, 38px -92px;
+    }
+    87.5% {
+      background-position: center, 70px -70px;
+    }
+    93.75% {
+      background-position: center, 92px -38px;
+    }
+    100% {
+      background-position: center, 100px 0px;
+    }
+  }
+  
+  .animated-bg {
+    animation: moveDotsSmoothCircle 25s linear infinite;
+  }
+   */
