@@ -7,5 +7,5 @@ export const sentimentAPI = {
 };
 
 export const tweetAPI = {
-  search: (query) => axios.get(`${BASE_URL}/tweets?q=${encodeURIComponent(query)}`),
+  search: (query) => axios.get(`${BASE_URL}/tweets/search?q=${query}`),
 };

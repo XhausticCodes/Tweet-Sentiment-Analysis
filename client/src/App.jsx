@@ -264,7 +264,7 @@ function App() {
               className={`mt-6 text-2xl font-semibold text-center ${getSentimentColor()}`}
               initial={{ opacity: 0, scale: 0.8, filter: "blur(6px)" }}
               animate={{ opacity: 1, scale: 1, filter: "blur(0px)" }}
-              exit={{ opacity: 0, scale: 0.9, filter: "blur(6px)" }}
+              exit={{ opacity: 0, scale: 1.5, filter: "blur(6px)" }}
               transition={{ duration: 0.8 }}
             >
               Prediction: {sentiment}
